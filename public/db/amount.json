@@ -1,0 +1,22 @@
+[
+    {
+        "purchaseAmt": 120,
+        "date" : "02/20/2023"
+    },
+    {
+        "purchaseAmt": 80,
+        "date" : "02/221/2023"
+    },
+    {
+        "purchaseAmt": 131,
+        "date" : "02/22/2023"
+    },
+    {
+        "purchaseAmt": 185,
+        "date" : "02/23/2023"
+    },
+    {
+        "purchaseAmt": 170,
+        "date" : "02/24/2023"
+    }
+]
